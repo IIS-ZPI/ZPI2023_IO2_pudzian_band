@@ -2,6 +2,7 @@ print(
     f"Nazwa: Pudzian band\n\
     Rola: SCRUM master\n\
     Github ID: Yibux\n\
-    Githun ID: Aveniss"
+    Jakub Sońta: Jakup27\n\
+    Githun ID: Aveniss\n\
     Jakub Tutka: JakubTuta"
 )
