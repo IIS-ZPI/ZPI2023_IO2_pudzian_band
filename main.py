@@ -9,7 +9,7 @@ print(
 )
 
 
-# Comment nr 1
+# Comment nr 2
 
 class ArithmeticsDiv:
     @staticmethod
