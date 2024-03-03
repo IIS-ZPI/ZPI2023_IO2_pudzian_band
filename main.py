@@ -8,6 +8,11 @@ print(
     Jakub Tutka: JakubTuta"
 )
 
+class ArithmeticsDiff:
+    @staticmethod
+    def Difference(liczba1, liczba2):
+        return liczba1 - liczba2
+
 class IArithmeticMult:
     @staticmethod
     def Multiplication(a, b):
