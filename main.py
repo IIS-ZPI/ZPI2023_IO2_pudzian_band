@@ -11,6 +11,7 @@ print(
 class ArithmeticsDiv:
     @staticmethod
     def Division(A, B):
+        # Sprawdzenie warunku
         if B != 0:
             return A / B
         else:
