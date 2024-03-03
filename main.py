@@ -21,9 +21,10 @@ class ArithmeticsDiff:
     def Difference(liczba1, liczba2):
         return liczba1 - liczba2
 
+
 class IArithmeticMult:
     @staticmethod
-    def Multiplication(a, b):
+    def Multiplication(a, b): # to tez jest moj komentarz
         return a * b
 
 class IArithmeticsAdd:
