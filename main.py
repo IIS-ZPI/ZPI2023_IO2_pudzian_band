@@ -31,3 +31,22 @@ class IArithmeticsAdd:
     def Addition(number1,number2):
         return number1+number2
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# To jest komentarz lilskywalkr
