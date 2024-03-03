@@ -8,6 +8,8 @@ print(
     Jakub Tutka: JakubTuta"
 )
 
+# Comment nr 1
+
 class ArithmeticsDiv:
     @staticmethod
     def Division(A, B):
@@ -21,6 +23,8 @@ class ArithmeticsDiff:
     def Difference(liczba1, liczba2):
         return liczba1 - liczba2
 
+# Comment nr 2
+
 class IArithmeticMult:
     @staticmethod
     def Multiplication(a, b):
@@ -31,3 +35,4 @@ class IArithmeticsAdd:
     def Addition(number1,number2):
         return number1+number2
 
+# Comment nr 3
