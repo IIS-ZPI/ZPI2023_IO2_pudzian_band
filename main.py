@@ -7,7 +7,7 @@ print(
     Github ID: Aveniss\n\
     Jakub Tutka: JakubTuta"
 )
-
+# Klasy do operacji arytmetycznych
 class ArithmeticsDiv:
     @staticmethod
     def Division(A, B):
