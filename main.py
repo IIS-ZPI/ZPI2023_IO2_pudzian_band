@@ -32,11 +32,5 @@ class IArithmeticMult:
 
 class IArithmeticsAdd:
     @staticmethod
-    def Addition(number1,number2):
-        return number1+number2
-
     def Addition(number1, number2):
         return number1 + number2
-      
-      
- # To jest komentarz lilskywalkr
