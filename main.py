@@ -14,3 +14,7 @@ class IArithmeticMult:
         return a * b
 
 
+class IArithmeticsAdd:
+    @staticmethod
+    def Addition(number1,number2):
+        return number1+number2
