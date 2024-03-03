@@ -7,3 +7,8 @@ print(
     Github ID: Aveniss\n\
     Jakub Tutka: JakubTuta"
 )
+
+class IArithmeticsAdd:
+    @staticmethod
+    def Addition(number1,number2):
+        return number1+number2
