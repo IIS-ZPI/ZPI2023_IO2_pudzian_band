@@ -8,6 +8,9 @@ print(
     Jakub Tutka: JakubTuta"
 )
 
+
+# Comment nr 1
+
 class ArithmeticsDiv:
     @staticmethod
     def Division(A, B):
