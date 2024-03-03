@@ -1,9 +1,9 @@
 print(
     f"Nazwa: Pudzian band\n\
     Rola: SCRUM master\n\
-    Github ID: Yibux\n\
+    Github ID: Yibux - Jakub Szewczyk\n\
     Github ID: lilskywalkr\n\
     Jakub Sońta: Jakup27\n\
-    Githun ID: Aveniss\n\
+    Github ID: Aveniss\n\
     Jakub Tutka: JakubTuta"
 )
