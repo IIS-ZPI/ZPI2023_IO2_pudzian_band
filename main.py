@@ -8,6 +8,12 @@ print(
     Jakub Tutka: JakubTuta"
 )
 
+class IArithmeticMult:
+    @staticmethod
+    def Multiplication(a, b):
+        return a * b
+
+
 class IArithmeticsAdd:
     @staticmethod
     def Addition(number1,number2):
