@@ -8,6 +8,7 @@ print(
     Jakub Tutka: JakubTuta"
 )
 
+
 class ArithmeticsDiv:
     @staticmethod
     def Division(A, B):
@@ -16,18 +17,21 @@ class ArithmeticsDiv:
         else:
             raise ValueError("Nie można dzielić przez 0")
 
+
 class ArithmeticsDiff:
     @staticmethod
     def Difference(liczba1, liczba2):
         return liczba1 - liczba2
 
+
+# Multi
 class IArithmeticMult:
     @staticmethod
     def Multiplication(a, b):
         return a * b
 
+
 class IArithmeticsAdd:
     @staticmethod
-    def Addition(number1,number2):
-        return number1+number2
-
+    def Addition(number1, number2):
+        return number1 + number2
