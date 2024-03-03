@@ -13,4 +13,4 @@ class ArithmeticsDiv:
         if B != 0:
             return A / B
         else:
-            raise ValueError("Nie można dzielić przez zero")
+            raise ValueError("Nie można dzielić przez 0")
