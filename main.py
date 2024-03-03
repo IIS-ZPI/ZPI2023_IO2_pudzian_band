@@ -7,3 +7,10 @@ print(
     Github ID: Aveniss\n\
     Jakub Tutka: JakubTuta"
 )
+
+class IArithmeticMult:
+    @staticmethod
+    def Multiplication(a, b):
+        return a * b
+
+
