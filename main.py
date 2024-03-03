@@ -11,11 +11,9 @@ print(
 class ArithmeticsDiv:
     @staticmethod
     def Division(A, B):
-        # Sprawdzenie czy liczba jest różna od zera
         if B != 0:
             return A / B
         else:
-            # Wyrzucenie błędu jeśli liczba jest równa 0
             raise ValueError("Nie można dzielić przez 0")
 
 class ArithmeticsDiff:
