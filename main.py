@@ -7,3 +7,9 @@ print(
     Githun ID: Aveniss\n\
     Jakub Tutka: JakubTuta"
 )
+
+
+class ArithmeticsDiff:
+    @staticmethod
+    def Difference(liczba1, liczba2):
+        return liczba1 - liczba2
