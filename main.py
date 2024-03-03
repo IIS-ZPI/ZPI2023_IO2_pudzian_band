@@ -24,7 +24,7 @@ class ArithmeticsDiff:
 # to jest moj komentarz
 class IArithmeticMult:
     @staticmethod
-    def Multiplication(a, b):
+    def Multiplication(a, b): # to tez jest moj komentarz
         return a * b
 
 class IArithmeticsAdd:
