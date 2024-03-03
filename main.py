@@ -8,7 +8,7 @@ print(
     Jakub Tutka: JakubTuta"
 )
 
-
+# Klasy do operacji arytmetycznych
 class ArithmeticsDiv:
     @staticmethod
     def Division(A, B):
